@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![visitors](https://komarev.com/ghpvc/?username=nathanmartins)
 
 Hi, I'm Nathan Martins, a software engineer with a passion for DevOps and SRE.
-- 🔭 I’m currently working on SRE/DevOps @ Argyle
+- 🔭 I’m currently working as a Site Reliability Engineer @ Argyle
 - 🧑🏻‍💻 I really enjoy coding in Python, Golang and even a bit of bash scripting. 
 
 ![Nathan Martins stats](https://github-readme-stats.vercel.app/api?username=nathanmartins&show_icons=true)
