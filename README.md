@@ -21,3 +21,6 @@ Hi, I'm Nathan Martins, a software engineer with a passion for DevOps and SRE.
 - 🧑🏻‍💻 I really enjoy coding in Python, Golang and even a bit of bash scripting. 
 
 ![Nathan Martins stats](https://github-readme-stats.vercel.app/api?username=nathanmartins&show_icons=true)
+
+
+<a rel="me" href="https://hachyderm.io/@nathan_martins">Follow me on Mastadon</a>
