@@ -1,26 +1,8 @@
-<!--
-**nathanmartins/nathanmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![visitors](https://komarev.com/ghpvc/?username=nathanmartins)
 
 Hi, I'm Nathan Martins, a software engineer.
 - 🔭 I’m currently working as a Site Reliability Engineer @ Argyle
 - 🧑🏻‍💻 I code mostly in Golang and Python and even a bit of bash scripting. 
-
-![Nathan Martins stats](https://github-readme-stats.vercel.app/api?username=nathanmartins&show_icons=true)
 
 
 <a rel="me" href="https://hachyderm.io/@nathan_martins">Follow me on Mastadon</a>
