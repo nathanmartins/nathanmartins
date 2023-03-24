@@ -6,4 +6,6 @@ Hi, I'm Nathan Martins, a software engineer.
 - ☸ contribute to open-source (mostly kubernetes #sig-cli) 
 
 
-<a rel="me" href="https://hachyderm.io/@nathan_martins">Follow me on Mastadon</a>
+<a rel="me" href="https://twitter.com/nathanmartinsx0">Follow me on Twitter</a> or <a rel="me" href="https://hachyderm.io/@nathan_martins">Mastadon</a>
+
+
