@@ -1,6 +1,3 @@
 ![visitors](https://komarev.com/ghpvc/?username=nathanmartins)
 
-Hi, I'm Nathan Martins, a software engineer. I work mostly with Golang, K8s and Cloud-native tools.
-<br>
-<br>
-Follow me on  <a rel="me" href="https://bsky.app/profile/nathanmartins.dev" target="_blank"> BlueSky</a>
+Hi, I'm Nathan Martins, a software engineer. I primarily work with Golang, Kubernetes, and Cloud-native tools.
